@@ -1,0 +1,23 @@
+/*Properties to include for  this exercise 
+
+1) Color
+2) Background color
+3) Typography 
+4) Text-align
+5) Image height/width
+
+*/
+
+h1 {
+    font-family: "Verdana";
+    font-size:xx-large;
+    background-color:aquamarine;
+    text-align: center;
+    font-weight:bold 
+}
+
+
+h5 {
+   text-align:center
+}
+
